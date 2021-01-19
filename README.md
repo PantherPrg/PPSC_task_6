@@ -11,6 +11,6 @@ Return "valid" if the password meets requirements and "invalid" if the password 
 __________________________________________________________________________________
 This problem deals with if statements, arrays (depends on how you solve this problem), and ascii table conversion (depends on how you solve this problem). 
 
-For additional help, either ask Paul, Joshua, Mr. Blatner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
+For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
 
 Otherwise, you can use https://www.w3schools.com/python/gloss_python_if_statement.asp for if statements, https://www.tutsmake.com/python-split-a-string-into-array-of-characters-space/ to convert strings to arrays, and https://stackoverflow.com/questions/4387138/pythonascii-character-decimal-representation-conversion and http://www.asciitable.com/ for ascii conversion (not needed, just really efficient). 
