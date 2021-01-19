@@ -1,4 +1,4 @@
-# PPSC_task_5: Validating Passwords
+# PPSC_task_6: Validating Passwords
 **| difficulty: 3/10 |**
 
 When creating a new account for your new website, you are required to enter a new email, username, and password. There are also requirements/constraints to be met for your new password. Only letters, numbers, underscores, and periods are allowed. It must be at least 7 characters long but not more than 25 characters long. Should require at least 1 capital letter and 1 number. 
