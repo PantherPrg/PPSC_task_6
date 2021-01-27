@@ -9,6 +9,8 @@ ________________________________________________________________________________
 **Output**:
 Return "valid" if the password meets requirements and "invalid" if the password does not. Make sure to add a newline at the end of your returned answer. This is needed to match the format for the task result.
 __________________________________________________________________________________
+**optional challenge: write your code in under 50 lines**
+
 This problem deals with if statements, arrays (depends on how you solve this problem), and ascii table conversion (depends on how you solve this problem). 
 
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
